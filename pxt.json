@@ -1,0 +1,29 @@
+{
+    "name": "Minecraft Mazes Braydan, Alex, Seth",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.5.64",
+        "tag": "v1.5.64",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/109ccf274c66c0f0ee2db2ca8bfc69c132ee7d61",
+        "target": "1.7.28",
+        "pxt": "6.4.34",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
